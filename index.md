@@ -3,7 +3,7 @@
 Please use the [simulator](https://developers.africastalking.com/simulator) to dial the USSD code.Input your number, click on the phone icon then dial the code.
 
 The current path is created for English only. The idea is still in progress. We will add the other option later on. 
-You can navigate with 1->1->1->1->1,2or3.
+The current configured menu is 1->1->1->1->1,2or3.
 
 See the navigation below.
 
