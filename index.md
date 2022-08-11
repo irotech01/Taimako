@@ -12,7 +12,6 @@ See the navigation below.
 ### Markdown
 This is still in the ideation stage. 
 We are open for suggestions on how we can improve on the idea. 
-```markdown
 
 ![Set up ](m1.jpg)
 
