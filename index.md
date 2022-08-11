@@ -17,7 +17,9 @@ We are open for suggestions on how we can improve on the idea.
 
 ![Set up ](m2.jpg)
 
+![Set up ](m3.jpg)
 
+![Set up ](m4.jpg)
 
 ### Support or Contact
 
