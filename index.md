@@ -1,9 +1,13 @@
-## Welcome to "*"384"*"4807# Taimako USSD Code
+## Welcome to "384"4807# Taimako USSD Code
 
-Please use the [simulator](https://developers.africastalking.com/simulator) to dial the USSD code.
+Please use the [simulator](https://developers.africastalking.com/simulator) to dial the USSD code.Input your number, click on the phone icon then dial the code.
 
 The current path is created for English only. The idea is still in progress. We will add the other option later on. 
+You can navigate with 1->1->1->1->1,2or3.
 
+See the navigation below.
+
+![Set up ](m1.jpg)
 maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
