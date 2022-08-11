@@ -1,4 +1,4 @@
-## Welcome to **384**4807# Taimako USSD Code
+## Welcome to (*)384(*)4807# Taimako USSD Code
 
 Please use the [simulator](https://developers.africastalking.com/simulator) to dial the USSD code.
 
